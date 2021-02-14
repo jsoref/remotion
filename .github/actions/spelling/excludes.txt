@@ -1,0 +1,14 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+^\.github/
+\.eslintrc$
+\.gitattributes$
+\.ico$
+\.mp4$
+\.nojekyll$
+\.png$
+\.prettierrc$
+\.svg$
+\.webm$
